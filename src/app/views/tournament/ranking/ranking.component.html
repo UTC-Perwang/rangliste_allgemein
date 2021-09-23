@@ -1,0 +1,18 @@
+<main class="profile-page">
+  <section>
+    <div class="container px-4 mx-auto max-w-full">
+      <div class="px-4 pt-2 mx-auto flex flex-col md:flex-row items-center justify-center" *ngFor="let row of rankings">
+        <div class="w-full md:w-1/8 px-2" *ngFor="let player of row">
+          <app-card-stats
+            [player]="player"
+            (playerSelected)="selectPlayer($event)"
+            statIconName="{{player.icon}}"
+            statIconColor="{{player.iconColor}}"
+            statText="{{player.position}}"></app-card-stats>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+

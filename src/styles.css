@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+.bg-gold-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(255, 215, 0, var(--tw-bg-opacity));
+}
+
+.bg-silver-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(192, 192, 192, var(--tw-bg-opacity));
+}
+
+.bg-bronze-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(	205, 127, 50, var(--tw-bg-opacity));
+}
