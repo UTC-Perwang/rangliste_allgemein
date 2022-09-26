@@ -2,7 +2,7 @@
   [
     {
       "position": 1,
-      "name": "Roli Klinger",
+      "name": "Ali Lottermoser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-gold-800"
     }
@@ -10,13 +10,13 @@
   [
     {
       "position": 2,
-      "name": "Ali Lottermoser",
+      "name": "Roli Klinger",
       "icon": "fa fa-trophy",
       "iconColor": "bg-silver-800"
     },
     {
       "position": 3,
-      "name": "Albert Bauböck",
+      "name": "Werner Janka",
       "icon": "fa fa-trophy",
       "iconColor": "bg-bronze-800"
     }
@@ -28,47 +28,47 @@
     },
     {
       "position": 5,
-      "name": "Werner Janka"
+      "name": "Gerhard Stockhammer"
     },
     {
       "position": 6,
-      "name": "Gerhard Stockhammer"
+      "name": "Albert Bauböck"
     }
   ],
   [
     {
       "position": 7,
-      "name": "Hans Rehrl"
+      "name": "Michi Bauböck"
     },
     {
       "position": 8,
-      "name": "Erich Ortner"
+      "name": "Sabine Raab"
     },
     {
       "position": 9,
-      "name": "Michael Bauböck"
+      "name": "David Schwarz"
     },
     {
       "position": 10,
-      "name": "Robert Maier"
+      "name": "Sepp Heit"
     }
   ],
   [
     {
       "position": 11,
-      "name": "Sabine Raab"
+      "name": "Andreas Geissler"
     },
     {
       "position": 12,
-      "name": "David Schwarz"
+      "name": "Hans Rehrl"
     },
     {
       "position": 13,
-      "name": "Sepp Heit"
+      "name": "Martin Lainer"
     },
     {
       "position": 14,
-      "name": "Andreas Geissler"
+      "name": "Michi Pfaffinger"
     },
     {
       "position": 15,
@@ -86,7 +86,7 @@
     },
     {
       "position": 18,
-      "name": "Martin Lainer"
+      "name": "Christian Danter"
     },
     {
       "position": 19,
@@ -94,47 +94,47 @@
     },
     {
       "position": 20,
-      "name": "Monika Hilger"
+      "name": "Christian Strasser"
     },
     {
       "position": 21,
-      "name": "Mario Höflmeier"
+      "name": "Andrea Thurnes"
     }
   ],
   [
     {
       "position": 22,
-      "name": "Lothar Salzberger"
+      "name": "Monika Hilger"
     },
     {
       "position": 23,
-      "name": "Max Stöllinger"
+      "name": "Christoph Pernjak"
     },
     {
       "position": 24,
-      "name": "Christian Strasser"
-    },
-    {
-      "position": 25,
-      "name": "Martin Prokop"
-    },
-    {
-      "position": 26,
       "name": "Peter Höflmeier"
     },
     {
+      "position": 25,
+      "name": "Erich Ortner"
+    },
+    {
+      "position": 26,
+      "name": "Markus Thurnes"
+    },
+    {
       "position": 27,
-      "name": "Andreas Reindl"
+      "name": "Martin Prokop"
     },
     {
       "position": 28,
-      "name": "Regina Pfaffinger"
+      "name": "Astrid Schimmerl"
     }
   ],
   [
     {
       "position": 29,
-      "name": "Christoph Pernjak"
+      "name": "Anneliese Schimmerl"
     },
     {
       "position": 30,
@@ -142,11 +142,11 @@
     },
     {
       "position": 31,
-      "name": ""
+      "name": "Andreas Reindl"
     },
     {
       "position": 32,
-      "name": ""
+      "name": "Lothar Salzberger"
     },
     {
       "position": 33,
