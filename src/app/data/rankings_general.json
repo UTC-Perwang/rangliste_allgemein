@@ -2,7 +2,7 @@
   [
     {
       "position": 1,
-      "name": "Geri Glaser",
+      "name": "Ali Lottermoser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-gold-800"
     }
@@ -10,13 +10,13 @@
   [
     {
       "position": 2,
-      "name": "Werner Janka",
+      "name": "Geri Glaser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-silver-800"
     },
     {
       "position": 3,
-      "name": "Gerhard Stockhammer",
+      "name": "Yannik Glaser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-bronze-800"
     }
@@ -24,144 +24,80 @@
   [
     {
       "position": 4,
-      "name": "David Schwarz"
+      "name": "Albert Bauböck"
     },
     {
       "position": 5,
-      "name": "Hans Rehrl"
+      "name": "Sepp Heit"
     },
     {
       "position": 6,
-      "name": "Thomas Soriat"
+      "name": "Werner Janka"
     }
   ],
   [
     {
       "position": 7,
-      "name": "Andi Geißler"
+      "name": "David Schwarz"
     },
     {
       "position": 8,
-      "name": "Sieglinde Mühlauer"
+      "name": "Andi Geißler"
     },
     {
       "position": 9,
-      "name": "Ali Lottermoser"
+      "name": "Thomas Soriat"
     },
     {
       "position": 10,
-      "name": "Albert Bauböck"
+      "name": "Danijel Rajh"
     }
   ],
   [
     {
       "position": 11,
-      "name": "Sabine Raab"
+      "name": "Stefan Graml"
     },
     {
       "position": 12,
-      "name": "Christoph Pernjak"
+      "name": "Chri Rehrl"
     },
     {
       "position": 13,
-      "name": "Sepp Heit"
+      "name": "Martin Lainer"
     },
     {
       "position": 14,
-      "name": "Yannik Glaser"
+      "name": "Gerhard Stockhammer"
     },
     {
       "position": 15,
-      "name": "Martin Lainer"
+      "name": "Gerhard Stöckl"
     }
   ],
   [
     {
       "position": 16,
-      "name": "Christian Strasser"
+      "name": "Hans Rehrl"
     },
     {
       "position": 17,
-      "name": "Monika Hilger"
+      "name": ""
     },
     {
       "position": 18,
-      "name": "Vicky Reichl"
+      "name": ""
     },
     {
       "position": 19,
-      "name": "Chri Rehrl"
+      "name": ""
     },
     {
       "position": 20,
-      "name": "Astrid Schimmerl"
+      "name": ""
     },
     {
       "position": 21,
-      "name": "Andrea Thurnes"
-    }
-  ],
-  [
-    {
-      "position": 22,
-      "name": "Christian Danter"
-    },
-    {
-      "position": 23,
-      "name": "Martin Prokop"
-    },
-    {
-      "position": 24,
-      "name": "Markus Thurnes"
-    },
-    {
-      "position": 25,
-      "name": "Anneliese Schimmerl"
-    },
-    {
-      "position": 26,
-      "name": "Bernhard Wirthenstätter"
-    },
-    {
-      "position": 27,
-      "name": "Mario Höflmeier"
-    },
-    {
-      "position": 28,
-      "name": "Michi Pfaffinger"
-    }
-  ],
-  [
-    {
-      "position": 29,
-      "name": ""
-    },
-    {
-      "position": 30,
-      "name": ""
-    },
-    {
-      "position": 31,
-      "name": ""
-    },
-    {
-      "position": 32,
-      "name": ""
-    },
-    {
-      "position": 33,
-      "name": ""
-    },
-    {
-      "position": 34,
-      "name": ""
-    },
-    {
-      "position": 35,
-      "name": ""
-    },
-    {
-      "position": 36,
       "name": ""
     }
   ]
