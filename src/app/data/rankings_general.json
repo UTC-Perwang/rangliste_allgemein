@@ -2,7 +2,7 @@
   [
     {
       "position": 1,
-      "name": "Ali Lottermoser",
+      "name": "Geri Glaser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-gold-800"
     }
@@ -10,13 +10,13 @@
   [
     {
       "position": 2,
-      "name": "Roli Klinger",
+      "name": "Werner Janka",
       "icon": "fa fa-trophy",
       "iconColor": "bg-silver-800"
     },
     {
       "position": 3,
-      "name": "Werner Janka",
+      "name": "Gerhard Stockhammer",
       "icon": "fa fa-trophy",
       "iconColor": "bg-bronze-800"
     }
@@ -24,51 +24,51 @@
   [
     {
       "position": 4,
-      "name": "Geri Glaser"
+      "name": "David Schwarz"
     },
     {
       "position": 5,
-      "name": "Gerhard Stockhammer"
+      "name": "Hans Rehrl"
     },
     {
       "position": 6,
-      "name": "Albert Bauböck"
+      "name": "Thomas Soriat"
     }
   ],
   [
     {
       "position": 7,
-      "name": "Michi Bauböck"
+      "name": "Andi Geißler"
     },
     {
       "position": 8,
-      "name": "Sabine Raab"
+      "name": "Sieglinde Mühlauer"
     },
     {
       "position": 9,
-      "name": "David Schwarz"
+      "name": "Ali Lottermoser"
     },
     {
       "position": 10,
-      "name": "Sepp Heit"
+      "name": "Albert Bauböck"
     }
   ],
   [
     {
       "position": 11,
-      "name": "Andreas Geissler"
+      "name": "Christoph Pernjak"
     },
     {
       "position": 12,
-      "name": "Hans Rehrl"
+      "name": "Sepp Heit"
     },
     {
       "position": 13,
-      "name": "Martin Lainer"
+      "name": "Yannik Glaser"
     },
     {
       "position": 14,
-      "name": "Michi Pfaffinger"
+      "name": "Martin Lainer"
     },
     {
       "position": 15,
@@ -82,11 +82,11 @@
     },
     {
       "position": 17,
-      "name": "Christian Rehrl"
+      "name": "Christian Strasser"
     },
     {
       "position": 18,
-      "name": "Christian Danter"
+      "name": "Monika Hilger"
     },
     {
       "position": 19,
@@ -94,59 +94,59 @@
     },
     {
       "position": 20,
-      "name": "Christian Strasser"
+      "name": "Chri Rehrl"
     },
     {
       "position": 21,
-      "name": "Andrea Thurnes"
-    }
-  ],
-  [
-    {
-      "position": 22,
-      "name": "Monika Hilger"
-    },
-    {
-      "position": 23,
-      "name": "Christoph Pernjak"
-    },
-    {
-      "position": 24,
-      "name": "Peter Höflmeier"
-    },
-    {
-      "position": 25,
-      "name": "Erich Ortner"
-    },
-    {
-      "position": 26,
-      "name": "Markus Thurnes"
-    },
-    {
-      "position": 27,
-      "name": "Martin Prokop"
-    },
-    {
-      "position": 28,
       "name": "Astrid Schimmerl"
     }
   ],
   [
     {
-      "position": 29,
+      "position": 22,
+      "name": "Andrea Thurnes"
+    },
+    {
+      "position": 23,
+      "name": "Christian Danter"
+    },
+    {
+      "position": 24,
+      "name": "Martin Prokop"
+    },
+    {
+      "position": 25,
+      "name": "Markus Thurnes"
+    },
+    {
+      "position": 26,
       "name": "Anneliese Schimmerl"
     },
     {
+      "position": 27,
+      "name": "Bernhard Wirthenstätter"
+    },
+    {
+      "position": 28,
+      "name": "Mario Höflmeier"
+    }
+  ],
+  [
+    {
+      "position": 29,
+      "name": "Michi Pfaffinger"
+    },
+    {
       "position": 30,
-      "name": "Babsi Klinger"
+      "name": ""
     },
     {
       "position": 31,
-      "name": "Andreas Reindl"
+      "name": ""
     },
     {
       "position": 32,
-      "name": "Lothar Salzberger"
+      "name": ""
     },
     {
       "position": 33,
