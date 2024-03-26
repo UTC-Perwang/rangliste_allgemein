@@ -2,7 +2,7 @@
   [
     {
       "position": 1,
-      "name": "David Lottermoser",
+      "name": "Yannik Glaser",
       "icon": "fa fa-trophy",
       "iconColor": "bg-gold-800"
     }
@@ -16,7 +16,7 @@
     },
     {
       "position": 3,
-      "name": "Yannik Glaser",
+      "name": "David Klinger",
       "icon": "fa fa-trophy",
       "iconColor": "bg-bronze-800"
     }
@@ -24,39 +24,39 @@
   [
     {
       "position": 4,
-      "name": "Oliver Lottermoser"
+      "name": "Jonas Bauböck"
     },
     {
       "position": 5,
-      "name": "Moritz Raab"
+      "name": "Samuel Laimer"
     },
     {
       "position": 6,
-      "name": "David Klinger"
+      "name": "Oliver Lottermoser"
     }
   ],
   [
     {
       "position": 7,
-      "name": "Noah Strohbichler"
+      "name": "Simon Pfaffinger"
     },
     {
       "position": 8,
-      "name": "Samuel Laimer"
+      "name": "Moritz Raab"
     },
     {
       "position": 9,
-      "name": "Jonas Bauöck"
+      "name": "Noah Strohbichler"
     },
     {
       "position": 10,
-      "name": "Simon Pfaffinger"
+      "name": "Emma Raab"
     }
   ],
   [
     {
       "position": 11,
-      "name": "Emma Raab"
+      "name": ""
     },
     {
       "position": 12,
